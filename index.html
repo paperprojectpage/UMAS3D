@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="UMAS3D project page">
+    <title>UMAS3D</title>
+    <link rel="stylesheet" href="css/main.css?v=20260909a">
+    <script src="js/instruction_modal.js?v=20260908a"></script>
+    <script src="js/umas3d_demo.js?v=20260908d"></script>
+    <script src="js/main.js?v=20260903e"></script>
+</head>
+<body>
+    <main id="main">
+        <header class="project-header"><div id="title">UMAS3D: Unified Mask-Free 3D Editing with Adaptive Source Supervision</div></header>
+
+        <figure class="paper-teaser">
+            <img src="assets/fig1.png" alt="UMAS3D overview figure">
+        </figure>
+
+        <section id="abstract" aria-labelledby="abstract-title">
+            <h2 id="abstract-title">Abstract</h2>
+            <div class="abstract-box">
+                <p>3D editing aims to modify existing 3D assets according to user intent while preserving geometric and visual consistency in unaffected regions. Existing methods often rely on task-specific training, source 3D inversion, or predefined 3D editing regions, and lack a unified paradigm for diverse editing conditions. To address this, we propose UMAS3D, a unified 3D editing framework that is training-free, inversion-free, and mask-free. It uniformly handles editing instructions across different modalities, including text, bounding boxes, reference images, and their combinations. Without requiring manual or external 3D masks, UMAS3D dynamically constructs an initial 3D mask online and adaptively refines it during generation. We design a two-stage supervision strategy: using BCE loss to enforce global structural consistency during the structure generation phase, and applying SmoothL1 loss to preserve local geometry and appearance features during the SLAT generation phase, while maintaining generation flexibility driven by the target view. Experimental results demonstrate that UMAS3D supports multiple editing tasks—including addition, deletion, modification, appearance change, and pose adjustment—within a unified framework, accurately achieving target modifications while effectively preserving consistency in non-edited regions.</p>
+            </div>
+        </section>
+
+        <section id="umas3d-demo" aria-labelledby="demo-title">
+            <h2 id="demo-title">UMAS3D | Unified Multimodal 3D Editing</h2>
+            <p class="demo-intro">Before-and-after results across five editing tasks and diverse instruction combinations. Click on a card to inspect the corresponding multimodal editing instruction.</p>
+            <div id="task-title" aria-live="polite"></div>
+            <div id="demo-grid" aria-live="polite"></div>
+            <div id="task-navigation" aria-label="Editing task navigation"></div>
+        </section>
+
+        <p class="template-acknowledgement">The website template is borrowed from <a href="https://github.com/microsoft/TRELLIS" target="_blank" rel="noopener noreferrer">TRELLIS</a>.</p>
+    </main>
+</body>
+</html>
