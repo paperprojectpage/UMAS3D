@@ -7,7 +7,7 @@
     <title>UMAS3D</title>
     <link rel="stylesheet" href="css/main.css?v=20260909a">
     <script src="js/instruction_modal.js?v=20260908a"></script>
-    <script src="js/umas3d_demo.js?v=20260908d"></script>
+    <script src="js/umas3d_demo.js?v=20260921b"></script>
     <script src="js/main.js?v=20260903e"></script>
 </head>
 <body>
@@ -21,7 +21,7 @@
         <section id="abstract" aria-labelledby="abstract-title">
             <h2 id="abstract-title">Abstract</h2>
             <div class="abstract-box">
-                <p>3D editing aims to modify existing 3D assets according to user intent while preserving geometric and visual consistency in unaffected regions. Existing methods often rely on task-specific training, source 3D inversion, or predefined 3D editing regions, and lack a unified paradigm for diverse editing conditions. To address this, we propose UMAS3D, a unified 3D editing framework that is training-free, inversion-free, and mask-free. It uniformly handles editing instructions across different modalities, including text, bounding boxes, reference images, and their combinations. Without requiring manual or external 3D masks, UMAS3D dynamically constructs an initial 3D mask online and adaptively refines it during generation. We design a two-stage supervision strategy: using BCE loss to enforce global structural consistency during the structure generation phase, and applying SmoothL1 loss to preserve local geometry and appearance features during the SLAT generation phase, while maintaining generation flexibility driven by the target view. Experimental results demonstrate that UMAS3D supports multiple editing tasks—including addition, deletion, modification, appearance change, and pose adjustment—within a unified framework, accurately achieving target modifications while effectively preserving consistency in non-edited regions.</p>
+                <p>3D editing modifies existing 3D assets according to user intent while preserving unaffected geometry and appearance. Existing methods often rely on task-specific training, source-3D inversion or external 3D masks, and lack a unified paradigm for diverse editing conditions and tasks. We propose UMAS3D, a unified framework that is training-free, inversion-free and free from external 3D masks. UMAS3D unifies text, bounding boxes, reference images and their combinations within a single editing pipeline. We introduce Mask-Free Adaptive Region Modeling (MARM), which builds a coarse Edit/Keep prior from source-target visual differences and adaptively refines region assignments during target 3D generation. We further introduce Source-Guided Preservation Steering (SGPS), which steers Keep-region states to preserve source-consistent geometry and appearance while leaving Edit regions target-driven. Experiments show that UMAS3D supports addition, deletion, modification, appearance and pose editing while effectively preserving unedited source content. These advances establish UMAS3D as a general paradigm for flexible and source-preserving 3D editing across diverse editing conditions.</p>
             </div>
         </section>
 

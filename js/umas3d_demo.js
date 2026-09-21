@@ -162,7 +162,7 @@ function goNextTask() {
 
 function initUMAS3DDemo() {
     document.getElementById('task-title').textContent = 'Loading results…';
-    fetch('assets/own_results/demo_manifest.json?v=20260908c')
+    fetch('assets/own_results/demo_manifest.json?v=20260921b')
         .then(function (response) {
             if (!response.ok) throw new Error('Unable to load the demo manifest.');
             return response.json();

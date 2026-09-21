@@ -5,62 +5,62 @@
       "samples": [
         {
           "modality": "Text",
-          "source_video": "assets/own_results/page1/sample1/source.mp4",
-          "edited_video": "assets/own_results/page1/sample1/edited.mp4",
-          "source_poster": "assets/own_results/page1/sample1/source.jpg",
-          "edited_poster": "assets/own_results/page1/sample1/edited.jpg",
+          "source_video": "assets/own_results/page1/sample1/source.mp4?v=20260921a",
+          "edited_video": "assets/own_results/page1/sample1/edited.mp4?v=20260921a",
+          "source_poster": "assets/own_results/page1/sample1/source.jpg?v=20260921a",
+          "edited_poster": "assets/own_results/page1/sample1/edited.jpg?v=20260921a",
           "alt": "Addition example 1",
-          "text_prompt": "Add the cream puff-like tail"
+          "text_prompt": "Add a flag to the roof."
         },
         {
           "modality": "Text",
-          "source_video": "assets/own_results/page1/sample2/source.mp4",
-          "edited_video": "assets/own_results/page1/sample2/edited.mp4",
-          "source_poster": "assets/own_results/page1/sample2/source.jpg",
-          "edited_poster": "assets/own_results/page1/sample2/edited.jpg",
+          "source_video": "assets/own_results/page1/sample2/source.mp4?v=20260921a",
+          "edited_video": "assets/own_results/page1/sample2/edited.mp4?v=20260921a",
+          "source_poster": "assets/own_results/page1/sample2/source.jpg?v=20260921a",
+          "edited_poster": "assets/own_results/page1/sample2/edited.jpg?v=20260921a",
           "alt": "Addition example 2",
           "text_prompt": "Add the character's headgear and headpiece entirely."
         },
         {
           "modality": "Text + BBox",
-          "source_video": "assets/own_results/page1/sample3/source.mp4",
-          "edited_video": "assets/own_results/page1/sample3/edited.mp4",
-          "source_poster": "assets/own_results/page1/sample3/source.jpg",
-          "edited_poster": "assets/own_results/page1/sample3/edited.jpg",
+          "source_video": "assets/own_results/page1/sample3/source.mp4?v=20260921a",
+          "edited_video": "assets/own_results/page1/sample3/edited.mp4?v=20260921a",
+          "source_poster": "assets/own_results/page1/sample3/source.jpg?v=20260921a",
+          "edited_poster": "assets/own_results/page1/sample3/edited.jpg?v=20260921a",
           "alt": "Addition example 3",
-          "text_prompt": "Add both detached anthropomorphic arms to the marked torso.",
-          "bbox_image": "assets/own_results/page1/sample3/bbox.png"
+          "text_prompt": "Fill this area with cement bags.",
+          "bbox_image": "assets/own_results/page1/sample3/bbox.png?v=20260921a"
         },
         {
           "modality": "Text + Ref",
-          "source_video": "assets/own_results/page1/sample4/source.mp4",
-          "edited_video": "assets/own_results/page1/sample4/edited.mp4",
-          "source_poster": "assets/own_results/page1/sample4/source.jpg",
-          "edited_poster": "assets/own_results/page1/sample4/edited.jpg",
+          "source_video": "assets/own_results/page1/sample4/source.mp4?v=20260921a",
+          "edited_video": "assets/own_results/page1/sample4/edited.mp4?v=20260921a",
+          "source_poster": "assets/own_results/page1/sample4/source.jpg?v=20260921a",
+          "edited_poster": "assets/own_results/page1/sample4/edited.jpg?v=20260921a",
           "alt": "Addition example 4",
-          "text_prompt": "Add the circular base supporting the bear, matching the style in the reference image",
-          "ref_image": "assets/own_results/page1/sample4/reference.png"
+          "text_prompt": "Add this chimney to the roof.",
+          "ref_image": "assets/own_results/page1/sample4/reference.png?v=20260921a"
         },
         {
           "modality": "BBox + Ref",
-          "source_video": "assets/own_results/page1/sample5/source.mp4",
-          "edited_video": "assets/own_results/page1/sample5/edited.mp4",
-          "source_poster": "assets/own_results/page1/sample5/source.jpg",
-          "edited_poster": "assets/own_results/page1/sample5/edited.jpg",
+          "source_video": "assets/own_results/page1/sample5/source.mp4?v=20260921a",
+          "edited_video": "assets/own_results/page1/sample5/edited.mp4?v=20260921a",
+          "source_poster": "assets/own_results/page1/sample5/source.jpg?v=20260921a",
+          "edited_poster": "assets/own_results/page1/sample5/edited.jpg?v=20260921a",
           "alt": "Addition example 5",
-          "bbox_image": "assets/own_results/page1/sample5/bbox.png",
-          "ref_image": "assets/own_results/page1/sample5/reference.png"
+          "bbox_image": "assets/own_results/page1/sample5/bbox.png?v=20260921a",
+          "ref_image": "assets/own_results/page1/sample5/reference.png?v=20260921a"
         },
         {
           "modality": "Text + BBox + Ref",
-          "source_video": "assets/own_results/page1/sample6/source.mp4",
-          "edited_video": "assets/own_results/page1/sample6/edited.mp4",
-          "source_poster": "assets/own_results/page1/sample6/source.jpg",
-          "edited_poster": "assets/own_results/page1/sample6/edited.jpg",
+          "source_video": "assets/own_results/page1/sample6/source.mp4?v=20260921a",
+          "edited_video": "assets/own_results/page1/sample6/edited.mp4?v=20260921a",
+          "source_poster": "assets/own_results/page1/sample6/source.jpg?v=20260921a",
+          "edited_poster": "assets/own_results/page1/sample6/edited.jpg?v=20260921a",
           "alt": "Addition example 6",
-          "text_prompt": "Add this tail here.",
-          "bbox_image": "assets/own_results/page1/sample6/bbox.png",
-          "ref_image": "assets/own_results/page1/sample6/reference.png"
+          "text_prompt": "Hold this sword in this hand.",
+          "bbox_image": "assets/own_results/page1/sample6/bbox.png?v=20260921a",
+          "ref_image": "assets/own_results/page1/sample6/reference.png?v=20260921a"
         }
       ]
     },
@@ -69,60 +69,60 @@
       "samples": [
         {
           "modality": "Text",
-          "source_video": "assets/own_results/page2/sample1/source.mp4",
-          "edited_video": "assets/own_results/page2/sample1/edited.mp4",
-          "source_poster": "assets/own_results/page2/sample1/source.jpg",
-          "edited_poster": "assets/own_results/page2/sample1/edited.jpg",
+          "source_video": "assets/own_results/page2/sample1/source.mp4?v=20260921a",
+          "edited_video": "assets/own_results/page2/sample1/edited.mp4?v=20260921a",
+          "source_poster": "assets/own_results/page2/sample1/source.jpg?v=20260921a",
+          "edited_poster": "assets/own_results/page2/sample1/edited.jpg?v=20260921a",
           "alt": "Deletion example 1",
           "text_prompt": "Remove both bow ties from the character's outfit."
         },
         {
           "modality": "Text",
-          "source_video": "assets/own_results/page2/sample2/source.mp4",
-          "edited_video": "assets/own_results/page2/sample2/edited.mp4",
-          "source_poster": "assets/own_results/page2/sample2/source.jpg",
-          "edited_poster": "assets/own_results/page2/sample2/edited.jpg",
+          "source_video": "assets/own_results/page2/sample2/source.mp4?v=20260921a",
+          "edited_video": "assets/own_results/page2/sample2/edited.mp4?v=20260921a",
+          "source_poster": "assets/own_results/page2/sample2/source.jpg?v=20260921a",
+          "edited_poster": "assets/own_results/page2/sample2/edited.jpg?v=20260921a",
           "alt": "Deletion example 2",
           "text_prompt": "Remove the harness worn by the creature"
         },
         {
           "modality": "Text",
-          "source_video": "assets/own_results/page2/sample3/source.mp4",
-          "edited_video": "assets/own_results/page2/sample3/edited.mp4",
-          "source_poster": "assets/own_results/page2/sample3/source.jpg",
-          "edited_poster": "assets/own_results/page2/sample3/edited.jpg",
+          "source_video": "assets/own_results/page2/sample3/source.mp4?v=20260921a",
+          "edited_video": "assets/own_results/page2/sample3/edited.mp4?v=20260921a",
+          "source_poster": "assets/own_results/page2/sample3/source.jpg?v=20260921a",
+          "edited_poster": "assets/own_results/page2/sample3/edited.jpg?v=20260921a",
           "alt": "Deletion example 3",
-          "text_prompt": "Remove the cylindrical component of the robot's head."
+          "text_prompt": "Remove some green leaves from the plant"
         },
         {
           "modality": "Text + BBox",
-          "source_video": "assets/own_results/page2/sample4/source.mp4",
-          "edited_video": "assets/own_results/page2/sample4/edited.mp4",
-          "source_poster": "assets/own_results/page2/sample4/source.jpg",
-          "edited_poster": "assets/own_results/page2/sample4/edited.jpg",
+          "source_video": "assets/own_results/page2/sample4/source.mp4?v=20260921a",
+          "edited_video": "assets/own_results/page2/sample4/edited.mp4?v=20260921a",
+          "source_poster": "assets/own_results/page2/sample4/source.jpg?v=20260921a",
+          "edited_poster": "assets/own_results/page2/sample4/edited.jpg?v=20260921a",
           "alt": "Deletion example 4",
-          "text_prompt": "Remove the top hat.",
-          "bbox_image": "assets/own_results/page2/sample4/bbox.png"
+          "text_prompt": "Remove the sandals.",
+          "bbox_image": "assets/own_results/page2/sample4/bbox.png?v=20260921a"
         },
         {
           "modality": "Text + BBox",
-          "source_video": "assets/own_results/page2/sample5/source.mp4",
-          "edited_video": "assets/own_results/page2/sample5/edited.mp4",
-          "source_poster": "assets/own_results/page2/sample5/source.jpg",
-          "edited_poster": "assets/own_results/page2/sample5/edited.jpg",
+          "source_video": "assets/own_results/page2/sample5/source.mp4?v=20260921a",
+          "edited_video": "assets/own_results/page2/sample5/edited.mp4?v=20260921a",
+          "source_poster": "assets/own_results/page2/sample5/source.jpg?v=20260921a",
+          "edited_poster": "assets/own_results/page2/sample5/edited.jpg?v=20260921a",
           "alt": "Deletion example 5",
           "text_prompt": "Remove the handle in the bounding box from the cup.",
-          "bbox_image": "assets/own_results/page2/sample5/bbox.png"
+          "bbox_image": "assets/own_results/page2/sample5/bbox.png?v=20260921a"
         },
         {
           "modality": "Text + BBox",
-          "source_video": "assets/own_results/page2/sample6/source.mp4",
-          "edited_video": "assets/own_results/page2/sample6/edited.mp4",
-          "source_poster": "assets/own_results/page2/sample6/source.jpg",
-          "edited_poster": "assets/own_results/page2/sample6/edited.jpg",
+          "source_video": "assets/own_results/page2/sample6/source.mp4?v=20260921a",
+          "edited_video": "assets/own_results/page2/sample6/edited.mp4?v=20260921a",
+          "source_poster": "assets/own_results/page2/sample6/source.jpg?v=20260921a",
+          "edited_poster": "assets/own_results/page2/sample6/edited.jpg?v=20260921a",
           "alt": "Deletion example 6",
-          "text_prompt": "Remove this ribbon bow.",
-          "bbox_image": "assets/own_results/page2/sample6/bbox.png"
+          "text_prompt": "Remove the highlighted carriage.",
+          "bbox_image": "assets/own_results/page2/sample6/bbox.png?v=20260921a"
         }
       ]
     },
@@ -131,62 +131,62 @@
       "samples": [
         {
           "modality": "Text",
-          "source_video": "assets/own_results/page3/sample1/source.mp4",
-          "edited_video": "assets/own_results/page3/sample1/edited.mp4",
-          "source_poster": "assets/own_results/page3/sample1/source.jpg",
-          "edited_poster": "assets/own_results/page3/sample1/edited.jpg",
+          "source_video": "assets/own_results/page3/sample1/source.mp4?v=20260921a",
+          "edited_video": "assets/own_results/page3/sample1/edited.mp4?v=20260921a",
+          "source_poster": "assets/own_results/page3/sample1/source.jpg?v=20260921a",
+          "edited_poster": "assets/own_results/page3/sample1/edited.jpg?v=20260921a",
           "alt": "Modification example 1",
-          "text_prompt": "Replace the pony head with a robotic sensor unit"
+          "text_prompt": "Replace the tree in front of the door with a pine tree."
         },
         {
           "modality": "Text",
-          "source_video": "assets/own_results/page3/sample2/source.mp4",
-          "edited_video": "assets/own_results/page3/sample2/edited.mp4",
-          "source_poster": "assets/own_results/page3/sample2/source.jpg",
-          "edited_poster": "assets/own_results/page3/sample2/edited.jpg",
+          "source_video": "assets/own_results/page3/sample2/source.mp4?v=20260921a",
+          "edited_video": "assets/own_results/page3/sample2/edited.mp4?v=20260921a",
+          "source_poster": "assets/own_results/page3/sample2/source.jpg?v=20260921a",
+          "edited_poster": "assets/own_results/page3/sample2/edited.jpg?v=20260921a",
           "alt": "Modification example 2",
-          "text_prompt": "Replace the mechanical hook with a spherical manipulator ball"
+          "text_prompt": "Put armor on his head and make it consistent with the mech."
         },
         {
           "modality": "Text + BBox",
-          "source_video": "assets/own_results/page3/sample3/source.mp4",
-          "edited_video": "assets/own_results/page3/sample3/edited.mp4",
-          "source_poster": "assets/own_results/page3/sample3/source.jpg",
-          "edited_poster": "assets/own_results/page3/sample3/edited.jpg",
+          "source_video": "assets/own_results/page3/sample3/source.mp4?v=20260921a",
+          "edited_video": "assets/own_results/page3/sample3/edited.mp4?v=20260921a",
+          "source_poster": "assets/own_results/page3/sample3/source.jpg?v=20260921a",
+          "edited_poster": "assets/own_results/page3/sample3/edited.jpg?v=20260921a",
           "alt": "Modification example 3",
-          "text_prompt": "Replace this faceted hat with a smooth, rounded wizard cap.",
-          "bbox_image": "assets/own_results/page3/sample3/bbox.png"
+          "text_prompt": "Replace this orange with a flower.",
+          "bbox_image": "assets/own_results/page3/sample3/bbox.png?v=20260921a"
         },
         {
           "modality": "Text + Ref",
-          "source_video": "assets/own_results/page3/sample4/source.mp4",
-          "edited_video": "assets/own_results/page3/sample4/edited.mp4",
-          "source_poster": "assets/own_results/page3/sample4/source.jpg",
-          "edited_poster": "assets/own_results/page3/sample4/edited.jpg",
+          "source_video": "assets/own_results/page3/sample4/source.mp4?v=20260921a",
+          "edited_video": "assets/own_results/page3/sample4/edited.mp4?v=20260921a",
+          "source_poster": "assets/own_results/page3/sample4/source.jpg?v=20260921a",
+          "edited_poster": "assets/own_results/page3/sample4/edited.jpg?v=20260921a",
           "alt": "Modification example 4",
-          "text_prompt": "Replace the blue balloon with a red heart-shaped balloon as shown in <ref_img>.",
-          "ref_image": "assets/own_results/page3/sample4/reference.png"
+          "text_prompt": "Replace the elephant with this lion.",
+          "ref_image": "assets/own_results/page3/sample4/reference.png?v=20260921a"
         },
         {
           "modality": "BBox + Ref",
-          "source_video": "assets/own_results/page3/sample5/source.mp4",
-          "edited_video": "assets/own_results/page3/sample5/edited.mp4",
-          "source_poster": "assets/own_results/page3/sample5/source.jpg",
-          "edited_poster": "assets/own_results/page3/sample5/edited.jpg",
+          "source_video": "assets/own_results/page3/sample5/source.mp4?v=20260921a",
+          "edited_video": "assets/own_results/page3/sample5/edited.mp4?v=20260921a",
+          "source_poster": "assets/own_results/page3/sample5/source.jpg?v=20260921a",
+          "edited_poster": "assets/own_results/page3/sample5/edited.jpg?v=20260921a",
           "alt": "Modification example 5",
-          "bbox_image": "assets/own_results/page3/sample5/bbox.png",
-          "ref_image": "assets/own_results/page3/sample5/reference.png"
+          "bbox_image": "assets/own_results/page3/sample5/bbox.png?v=20260921a",
+          "ref_image": "assets/own_results/page3/sample5/reference.png?v=20260921a"
         },
         {
           "modality": "Text + BBox + Ref",
-          "source_video": "assets/own_results/page3/sample6/source.mp4",
-          "edited_video": "assets/own_results/page3/sample6/edited.mp4",
-          "source_poster": "assets/own_results/page3/sample6/source.jpg",
-          "edited_poster": "assets/own_results/page3/sample6/edited.jpg",
+          "source_video": "assets/own_results/page3/sample6/source.mp4?v=20260921a",
+          "edited_video": "assets/own_results/page3/sample6/edited.mp4?v=20260921a",
+          "source_poster": "assets/own_results/page3/sample6/source.jpg?v=20260921a",
+          "edited_poster": "assets/own_results/page3/sample6/edited.jpg?v=20260921a",
           "alt": "Modification example 6",
-          "text_prompt": "Replace this circular rim with the flared, scalloped ceramic edge from the reference image",
-          "bbox_image": "assets/own_results/page3/sample6/bbox.png",
-          "ref_image": "assets/own_results/page3/sample6/reference.png"
+          "text_prompt": "Replace this backpack with the one in the reference image.",
+          "bbox_image": "assets/own_results/page3/sample6/bbox.png?v=20260921a",
+          "ref_image": "assets/own_results/page3/sample6/reference.png?v=20260921a"
         }
       ]
     },
@@ -195,62 +195,62 @@
       "samples": [
         {
           "modality": "Text",
-          "source_video": "assets/own_results/page4/sample1/source.mp4",
-          "edited_video": "assets/own_results/page4/sample1/edited.mp4",
-          "source_poster": "assets/own_results/page4/sample1/source.jpg",
-          "edited_poster": "assets/own_results/page4/sample1/edited.jpg",
+          "source_video": "assets/own_results/page4/sample1/source.mp4?v=20260921a",
+          "edited_video": "assets/own_results/page4/sample1/edited.mp4?v=20260921a",
+          "source_poster": "assets/own_results/page4/sample1/source.jpg?v=20260921a",
+          "edited_poster": "assets/own_results/page4/sample1/edited.jpg?v=20260921a",
           "alt": "Appearance example 1",
-          "text_prompt": "Repaint the purple components to deep crimson red"
+          "text_prompt": "The body color has been changed to red."
         },
         {
           "modality": "Text",
-          "source_video": "assets/own_results/page4/sample2/source.mp4",
-          "edited_video": "assets/own_results/page4/sample2/edited.mp4",
-          "source_poster": "assets/own_results/page4/sample2/source.jpg",
-          "edited_poster": "assets/own_results/page4/sample2/edited.jpg",
+          "source_video": "assets/own_results/page4/sample2/source.mp4?v=20260921a",
+          "edited_video": "assets/own_results/page4/sample2/edited.mp4?v=20260921a",
+          "source_poster": "assets/own_results/page4/sample2/source.jpg?v=20260921a",
+          "edited_poster": "assets/own_results/page4/sample2/edited.jpg?v=20260921a",
           "alt": "Appearance example 2",
-          "text_prompt": "Repaint the mattress in deep navy blue"
+          "text_prompt": "Change to a blue hat."
         },
         {
           "modality": "Text + BBox",
-          "source_video": "assets/own_results/page4/sample3/source.mp4",
-          "edited_video": "assets/own_results/page4/sample3/edited.mp4",
-          "source_poster": "assets/own_results/page4/sample3/source.jpg",
-          "edited_poster": "assets/own_results/page4/sample3/edited.jpg",
+          "source_video": "assets/own_results/page4/sample3/source.mp4?v=20260921a",
+          "edited_video": "assets/own_results/page4/sample3/edited.mp4?v=20260921a",
+          "source_poster": "assets/own_results/page4/sample3/source.jpg?v=20260921a",
+          "edited_poster": "assets/own_results/page4/sample3/edited.jpg?v=20260921a",
           "alt": "Appearance example 3",
-          "text_prompt": "Repaint this object in deep emerald green.",
-          "bbox_image": "assets/own_results/page4/sample3/bbox.png"
+          "text_prompt": "Change this dragon to the same blue color.",
+          "bbox_image": "assets/own_results/page4/sample3/bbox.png?v=20260921a"
         },
         {
           "modality": "Text + Ref",
-          "source_video": "assets/own_results/page4/sample4/source.mp4",
-          "edited_video": "assets/own_results/page4/sample4/edited.mp4",
-          "source_poster": "assets/own_results/page4/sample4/source.jpg",
-          "edited_poster": "assets/own_results/page4/sample4/edited.jpg",
+          "source_video": "assets/own_results/page4/sample4/source.mp4?v=20260921a",
+          "edited_video": "assets/own_results/page4/sample4/edited.mp4?v=20260921a",
+          "source_poster": "assets/own_results/page4/sample4/source.jpg?v=20260921a",
+          "edited_poster": "assets/own_results/page4/sample4/edited.jpg?v=20260921a",
           "alt": "Appearance example 4",
           "text_prompt": "Repaint the three green leaves detached from the clay pot structure to match the deep crimson red in <image>.",
-          "ref_image": "assets/own_results/page4/sample4/reference.png"
+          "ref_image": "assets/own_results/page4/sample4/reference.png?v=20260921a"
         },
         {
           "modality": "BBox + Ref",
-          "source_video": "assets/own_results/page4/sample5/source.mp4",
-          "edited_video": "assets/own_results/page4/sample5/edited.mp4",
-          "source_poster": "assets/own_results/page4/sample5/source.jpg",
-          "edited_poster": "assets/own_results/page4/sample5/edited.jpg",
+          "source_video": "assets/own_results/page4/sample5/source.mp4?v=20260921a",
+          "edited_video": "assets/own_results/page4/sample5/edited.mp4?v=20260921a",
+          "source_poster": "assets/own_results/page4/sample5/source.jpg?v=20260921a",
+          "edited_poster": "assets/own_results/page4/sample5/edited.jpg?v=20260921a",
           "alt": "Appearance example 5",
-          "bbox_image": "assets/own_results/page4/sample5/bbox.png",
-          "ref_image": "assets/own_results/page4/sample5/reference.png"
+          "bbox_image": "assets/own_results/page4/sample5/bbox.png?v=20260921a",
+          "ref_image": "assets/own_results/page4/sample5/reference.png?v=20260921a"
         },
         {
           "modality": "Text + BBox + Ref",
-          "source_video": "assets/own_results/page4/sample6/source.mp4",
-          "edited_video": "assets/own_results/page4/sample6/edited.mp4",
-          "source_poster": "assets/own_results/page4/sample6/source.jpg",
-          "edited_poster": "assets/own_results/page4/sample6/edited.jpg",
+          "source_video": "assets/own_results/page4/sample6/source.mp4?v=20260921a",
+          "edited_video": "assets/own_results/page4/sample6/edited.mp4?v=20260921a",
+          "source_poster": "assets/own_results/page4/sample6/source.jpg?v=20260921a",
+          "edited_poster": "assets/own_results/page4/sample6/edited.jpg?v=20260921a",
           "alt": "Appearance example 6",
-          "text_prompt": "Repaint this region to match the reference image.",
-          "bbox_image": "assets/own_results/page4/sample6/bbox.png",
-          "ref_image": "assets/own_results/page4/sample6/reference.png"
+          "text_prompt": "Change the color of this region to match the reference.",
+          "bbox_image": "assets/own_results/page4/sample6/bbox.png?v=20260921a",
+          "ref_image": "assets/own_results/page4/sample6/reference.png?v=20260921a"
         }
       ]
     },
@@ -259,60 +259,60 @@
       "samples": [
         {
           "modality": "Text",
-          "source_video": "assets/own_results/page5/sample1/source.mp4",
-          "edited_video": "assets/own_results/page5/sample1/edited.mp4",
-          "source_poster": "assets/own_results/page5/sample1/source.jpg",
-          "edited_poster": "assets/own_results/page5/sample1/edited.jpg",
+          "source_video": "assets/own_results/page5/sample1/source.mp4?v=20260921a",
+          "edited_video": "assets/own_results/page5/sample1/edited.mp4?v=20260921a",
+          "source_poster": "assets/own_results/page5/sample1/source.jpg?v=20260921a",
+          "edited_poster": "assets/own_results/page5/sample1/edited.jpg?v=20260921a",
           "alt": "Pose example 1",
           "text_prompt": "Raise head and look forward."
         },
         {
           "modality": "Text",
-          "source_video": "assets/own_results/page5/sample2/source.mp4",
-          "edited_video": "assets/own_results/page5/sample2/edited.mp4",
-          "source_poster": "assets/own_results/page5/sample2/source.jpg",
-          "edited_poster": "assets/own_results/page5/sample2/edited.jpg",
+          "source_video": "assets/own_results/page5/sample2/source.mp4?v=20260921a",
+          "edited_video": "assets/own_results/page5/sample2/edited.mp4?v=20260921a",
+          "source_poster": "assets/own_results/page5/sample2/source.jpg?v=20260921a",
+          "edited_poster": "assets/own_results/page5/sample2/edited.jpg?v=20260921a",
           "alt": "Pose example 2",
           "text_prompt": "Lower the left forearm."
         },
         {
           "modality": "Text",
-          "source_video": "assets/own_results/page5/sample3/source.mp4",
-          "edited_video": "assets/own_results/page5/sample3/edited.mp4",
-          "source_poster": "assets/own_results/page5/sample3/source.jpg",
-          "edited_poster": "assets/own_results/page5/sample3/edited.jpg",
+          "source_video": "assets/own_results/page5/sample3/source.mp4?v=20260921a",
+          "edited_video": "assets/own_results/page5/sample3/edited.mp4?v=20260921b",
+          "source_poster": "assets/own_results/page5/sample3/source.jpg?v=20260921a",
+          "edited_poster": "assets/own_results/page5/sample3/edited.jpg?v=20260921b",
           "alt": "Pose example 3",
-          "text_prompt": "Raise both fists to the chest."
+          "text_prompt": "Raise his hand."
         },
         {
           "modality": "Text + BBox",
-          "source_video": "assets/own_results/page5/sample4/source.mp4",
-          "edited_video": "assets/own_results/page5/sample4/edited.mp4",
-          "source_poster": "assets/own_results/page5/sample4/source.jpg",
-          "edited_poster": "assets/own_results/page5/sample4/edited.jpg",
+          "source_video": "assets/own_results/page5/sample4/source.mp4?v=20260921a",
+          "edited_video": "assets/own_results/page5/sample4/edited.mp4?v=20260921a",
+          "source_poster": "assets/own_results/page5/sample4/source.jpg?v=20260921a",
+          "edited_poster": "assets/own_results/page5/sample4/edited.jpg?v=20260921a",
           "alt": "Pose example 4",
           "text_prompt": "Tilt this tip downward.",
-          "bbox_image": "assets/own_results/page5/sample4/bbox.png"
+          "bbox_image": "assets/own_results/page5/sample4/bbox.png?v=20260921a"
         },
         {
           "modality": "Text + BBox",
-          "source_video": "assets/own_results/page5/sample5/source.mp4",
-          "edited_video": "assets/own_results/page5/sample5/edited.mp4",
-          "source_poster": "assets/own_results/page5/sample5/source.jpg",
-          "edited_poster": "assets/own_results/page5/sample5/edited.jpg",
+          "source_video": "assets/own_results/page5/sample5/source.mp4?v=20260921a",
+          "edited_video": "assets/own_results/page5/sample5/edited.mp4?v=20260921a",
+          "source_poster": "assets/own_results/page5/sample5/source.jpg?v=20260921a",
+          "edited_poster": "assets/own_results/page5/sample5/edited.jpg?v=20260921a",
           "alt": "Pose example 5",
-          "text_prompt": "Fold upward",
-          "bbox_image": "assets/own_results/page5/sample5/bbox.png"
+          "text_prompt": "Put this sword down, with the hilt facing upwards.",
+          "bbox_image": "assets/own_results/page5/sample5/bbox.png?v=20260921a"
         },
         {
           "modality": "Text + BBox",
-          "source_video": "assets/own_results/page5/sample6/source.mp4",
-          "edited_video": "assets/own_results/page5/sample6/edited.mp4",
-          "source_poster": "assets/own_results/page5/sample6/source.jpg",
-          "edited_poster": "assets/own_results/page5/sample6/edited.jpg",
+          "source_video": "assets/own_results/page5/sample6/source.mp4?v=20260921a",
+          "edited_video": "assets/own_results/page5/sample6/edited.mp4?v=20260921a",
+          "source_poster": "assets/own_results/page5/sample6/source.jpg?v=20260921a",
+          "edited_poster": "assets/own_results/page5/sample6/edited.jpg?v=20260921a",
           "alt": "Pose example 6",
-          "text_prompt": "Place this weapon on the right shoulder.",
-          "bbox_image": "assets/own_results/page5/sample6/bbox.png"
+          "text_prompt": "Raise this hand.",
+          "bbox_image": "assets/own_results/page5/sample6/bbox.png?v=20260921a"
         }
       ]
     }
