@@ -633,7 +633,8 @@ body { color: #161a27; background: #fff; letter-spacing: 0; }
 
 #umas3d-demo { margin-top: 72px; }
 #demo-title { text-align: left; background: linear-gradient(107.54deg, #006dcc .39%, #5b4ac6 51.23%, #d86476 100%); background-clip: text; -webkit-background-clip: text; -webkit-text-fill-color: transparent; }
-.demo-intro { margin: 0 0 20px; color: #303848; font-size: 17px; font-weight: 550; line-height: 1.6; text-align: left; }
+.demo-intro { margin: 0 0 20px; color: #222c3e; font-size: 18px; font-weight: 700; line-height: 1.6; text-align: left; }
+.demo-intro-action { color: #353b77; }
 
 #task-title { margin: 28px 0 0; font-size: clamp(34px, 4.4vw, 40px); line-height: 1.16; letter-spacing: -0.02em; text-align: center; background: linear-gradient(100deg, #006dcc, #554bc4, #c65378); background-clip: text; -webkit-background-clip: text; -webkit-text-fill-color: transparent; }
 #task-description { margin: 8px 0 20px; color: #4a5364; font-size: 14px; font-weight: 600; line-height: 1.55; text-align: center; }
